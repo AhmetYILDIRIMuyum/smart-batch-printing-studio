@@ -11,7 +11,7 @@ Built with **C# · .NET 9 · Windows Forms · Microsoft Edge WebView2**
 
 [**Türkçe**](README.tr.md) · [**Installation**](docs/INSTALLATION.md) · [**User Guide**](docs/USER_GUIDE.md) · [**Troubleshooting**](docs/TROUBLESHOOTING.md)
 
-![Smart Batch Printing Studio main window](docs/images/main-window.png)
+![Smart Batch Printing Studio main window](docs/images/Main-Window.png)
 
 </div>
 
